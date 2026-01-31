@@ -19,12 +19,12 @@ export const metadata = {
   openGraph: {
     title: "Vraj & Karnika | Wedding Invitation",
     description:
-      "You are cordially invited to celebrate with Karnika & Vraj on February 21-22, 2026.",
+      "You are cordially invited to celebrate with Vraj & Karnika on February 21-22, 2026.",
     url: "https://vrajwedskarnika.vercel.app",
     siteName: "Vraj weds Karnika",
     images: [
       {
-        url: "/images/wedding_logo.png",
+        url: "/images/weeding_logo.png",
         width: 1200,
         height: 630,
         alt: "Vraj & Karnika wedding invite poster",
@@ -37,7 +37,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Vraj 💖 Karnika || Wedding Invitation ",
     description:
-      "✨ With the blessings of our families, we joyfully invite you to witness and celebrate the sacred union of Karnika and Vraj on the 21st and 22nd of February, 2026. ✨",
+      "✨ With the blessings of our families, we joyfully invite you to witness and celebrate the sacred union of Vraj and Karnika on the 21st and 22nd of February, 2026. ✨",
     images: ["/images/weeding_logo.png"],
   },
 };
